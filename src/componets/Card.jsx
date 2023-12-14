@@ -4,10 +4,11 @@ export default function Card() {
             <a href="/">
                 <img className="p-8 rounded-t-lg" src="/img.jpg" alt="product_image1" />
             </a>
-            <div className="px-5 pb-5">
+            <div className="px-5 pb-3">
                 <a href="/">
-                    <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-                        Gaurav Kumar MERN Stack Developer
+                    <h5 className="text-xl font-semibold  text-gray-900 dark:text-white">
+                        Gaurav Kumar <br></br>
+                        MERN Stack Developer
                     </h5>
                 </a>
                 <div className="flex items-center mt-2.5 mb-5">
